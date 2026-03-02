@@ -1,4 +1,3 @@
-
 # 📦 Learn Prisma ORM
 
 A simple Node.js + TypeScript project for learning and experimenting with **Prisma ORM** using **PostgreSQL**.
