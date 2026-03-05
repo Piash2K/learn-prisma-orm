@@ -160,4 +160,3 @@ npx prisma db push       # Push schema without migration
 This repository is intended for learning Prisma ORM fundamentals and relational database modeling using PostgreSQL in a TypeScript environment.
 
 ---
-
